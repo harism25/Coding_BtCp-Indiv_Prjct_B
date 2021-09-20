@@ -1,5 +1,7 @@
 # Individual_Project_B
  
+An assignment implementing the following functionality, created and built on NetBeans and MySQL Workbench:
+
 1. Designing a system ERD and verifying it through an online tool.
 2. Constructing all tables needed based on the chosen implementation.
 3. Making the database schema that can keep data for the main entities of the assignment.
