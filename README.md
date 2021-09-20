@@ -1,4 +1,4 @@
-# Indiv_Prjct_B
+# Individual_Project_B
  
 1. Designing a system ERD and verifying it through an online tool.
 2. Constructing all tables needed based on the chosen implementation.
